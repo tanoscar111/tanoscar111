@@ -61,15 +61,10 @@
 <h2 align="center">👽 Where to find me 👽</h2>
 <br>
 <!-- https://icons8.com -->
-<div align="center">
-  <a href="https://trungquandev.com" target="blank">
-    <img width="90" height="90" src="images/logo-trungquandev-transparent-bg-192x192.png" alt="trungquandev-blog" />
-  </a>
-</div>
 
 <br>
 
-<h2 align="center">📑 Random DEV Quotes 📑</h2>
+<h2 align="center">📑 Random Thanh Tan Quotes 📑</h2>
 <br>
 <!-- https://github.com/shravan20/github-readme-quotes -->
 <div align="right">
